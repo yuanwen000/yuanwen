@@ -1,0 +1,10 @@
+# test
+
+name = raw_input("please enter your name")
+
+if name >= 18:
+
+	print "ad"
+
+else:
+	print "cc"
